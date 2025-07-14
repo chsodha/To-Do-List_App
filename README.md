@@ -23,7 +23,3 @@ Developed using:
 6. **Color-Coded Lists:** Each list is displayed with a unique color for easy identification.
 7. **List Options:** Every list comes with options such as delete, edit, and a checkbox to mark tasks as completed.
 8. **Interactive Toasts:** Receive interactive feedback with toast messages for every action performed.
-
-## 📦 APK File
-
-You can find and easily download the APK file for this app in the 📁 [APK file](https://github.com/gojiyajayesh/To-Do-List_App/tree/main/apk%20file)
