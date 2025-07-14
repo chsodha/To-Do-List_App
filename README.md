@@ -23,3 +23,10 @@ Developed using:
 6. **Color-Coded Lists:** Each list is displayed with a unique color for easy identification.
 7. **List Options:** Every list comes with options such as delete, edit, and a checkbox to mark tasks as completed.
 8. **Interactive Toasts:** Receive interactive feedback with toast messages for every action performed.
+
+
+## 🙋‍♂️ Author
+
+**Chhatrapalsinh Sodha**  
+📧 chsodha003@gmail.com  
+🌐 **GitHub** - (https://github.com/chsodha)
